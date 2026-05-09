@@ -145,4 +145,4 @@ If you consistently hit timeouts, try a smaller PDF or run during off-peak hours
 
 ## License
 
-MIT
+BSD3-Clause
